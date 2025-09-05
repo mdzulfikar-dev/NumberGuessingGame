@@ -25,3 +25,5 @@ A simple **number guessing game** written in Java. The player has to guess a ran
 
 ## Installation & Setup
 ###  1. Clone the repository
+      Clone the repository: [https://github.com/mdzulfikar-dev/OnlineReservationSystem.git](https://github.com/mdzulfikar-dev/OnlineReservationSystem.git)
+      
