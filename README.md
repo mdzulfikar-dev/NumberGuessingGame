@@ -25,5 +25,27 @@ A simple **number guessing game** written in Java. The player has to guess a ran
 
 ## Installation & Setup
 ###  1. Clone the repository
-      Clone the repository: [https://github.com/mdzulfikar-dev/OnlineReservationSystem.git](https://github.com/mdzulfikar-dev/OnlineReservationSystem.git)
-      
+
+
+git clone https://github.com/mdzulfikar-dev/NumberGuessingGame.git
+
+###  2. Navigate to the project directory
+       cd NumberGuessingGame
+     
+###  3. Compile the program
+       javac GuessNumber.java
+       
+###  4. Run the program
+       java GuessNumber
+       
+## Usage 
+   1. The program will welcome you and explain the rules.
+   2. You will guess a number between 1–100.
+   3. You get 8 attempts per round and 3 rounds total.
+   4. The game provides hints (Too High / Too Low).
+   5. At the end, your final score and performance level will be displayed.
+
+
+## Contributing
+Contributing Feel free to contribute to this project by creating issues, suggesting improvements, or submitting pull requests. Your contributions are greatly appreciated! 
+  
